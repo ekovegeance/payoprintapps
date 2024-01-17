@@ -1,0 +1,15 @@
+/home/me/test/flutter_application_1/build/linux/x64/debug/bundle/flutter_application_1
+/home/me/test/flutter_application_1/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/me/test/flutter_application_1/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/me/test/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/me/test/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/me/test/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/me/test/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/me/test/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/me/test/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/packages/material_symbols_icons/lib/fonts/MaterialSymbolsRounded%5BFILL,GRAD,opsz,wght%5D.ttf
+/home/me/test/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/packages/material_symbols_icons/lib/fonts/MaterialSymbolsSharp%5BFILL,GRAD,opsz,wght%5D.ttf
+/home/me/test/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/packages/material_symbols_icons/lib/fonts/MaterialSymbolsOutlined%5BFILL,GRAD,opsz,wght%5D.ttf
+/home/me/test/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/me/test/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/me/test/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/me/test/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
